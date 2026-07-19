@@ -8,6 +8,14 @@
 
 Generate engaging, platform-specific social media captions using **Google Gemini AI** with support for image understanding, multiple writing styles, multilingual output, and hashtag generation.
 
+## 🌐 Live Demo
+
+> **Try the application here:**  
+> https://captioncraft-ai.streamlit.app/
+
+or simply click the button below.
+
+[![Open App](https://img.shields.io/badge/🚀_Open_CaptionCraft_AI-FF4B9B?style=for-the-badge)](https://captioncraft-ai.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google-Gemini%202.5-4285F4?style=for-the-badge&logo=google&logoColor=white)
