@@ -56,7 +56,7 @@ The application features a premium Pinterest-inspired interface built with **Pyt
 
 ## 🏠 Dashboard
 
-<img src="assets/home.png" width="100%">
+<img src="assets/home1.png" width="100%">
 
 ---
 
