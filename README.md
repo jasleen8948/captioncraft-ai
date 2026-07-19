@@ -56,25 +56,25 @@ The application features a premium Pinterest-inspired interface built with **Pyt
 
 ## 🏠 Dashboard
 
-<img src="assets/home1.png" width="100%">
+<img src="assets/home1.jpeg" width="100%">
 
 ---
 
 ## 📝 Post Context
 
-<img src="assets/context.png" width="100%">
+<img src="assets/context.jpeg" width="100%">
 
 ---
 
 ## ✨ Generated Captions
 
-<img src="assets/captions.png" width="100%">
+<img src="assets/captions.jpeg" width="100%">
 
 ---
 
 ## 🚀 Features & Recent History
 
-<img src="assets/features.png" width="100%">
+<img src="assets/features.jpeg" width="100%">
 
 ---
 
